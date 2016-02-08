@@ -1,0 +1,73 @@
+---
+title: "Halcyon Labs"
+url: "https://halcyonlabs.io"
+baseurl: ""
+description: "Halcyon Labs is a startup helping startups build their MVPs and launch their businesses."
+email: scott.swarthout724@gmail.com
+address:
+  -
+    line: "Farmington Hills, MI 48331"
+color:
+  primary: 12CDC7
+  secondary: EC594C
+  secondary-dark: 0A0403
+
+markdown: kramdown
+
+people:
+  -
+    name: "Scott Swarthout"
+    pic: scott
+    position: "Lead Developer"
+    social:
+      -
+        title: twitter
+        url: "http://twitter.com/scott_swarthout"
+      -
+        title: linkedin
+        url: "http://www.linkedin.com/profile/view?id=371261133"
+      -
+        title: github
+        url: "http://github.com/swarthout"
+  -
+    name: "Derek Metcalf"
+    pic: derek
+    position: "Lead Manager"
+    social:
+      -
+        title: twitter
+        url: "http://twitter.com/derek_metcalf"
+      -
+        title: linkedin
+        url: "http://www.linkedin.com/profile/view?id=427086087"
+      -
+        title: github
+        url: ~
+  -
+    name: "Dean Miesner"
+    pic: dean
+    position: "Lead Marketer"
+    social:
+      -
+        title: twitter
+        url: "http://twitter.com/Dmiezy"
+      -
+        title: linkedin
+        url: "http://www.linkedin.com/profile/view?id=402749693"
+      -
+        title: facebook
+        url: ~
+permalink: pretty
+social:
+  -
+    title: twitter
+    url: "http://twitter.com/"
+  -
+    title: linkedin
+    url: "http://linkedin.com/"
+  -
+    title: github
+    url: "http://github.com/halcyon-labs"
+  -
+    title: facebook
+    url: "http://facebook.com/"

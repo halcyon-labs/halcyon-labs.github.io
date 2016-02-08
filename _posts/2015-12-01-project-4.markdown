@@ -1,0 +1,15 @@
+---
+title: Arise
+subtitle: Yoga Alarm Clock
+layout: default
+modal-id: 4
+date: 2015-12-01
+img: arise-logo.png
+thumbnail: arise-thumbnail.png
+alt: arise
+project-date: Winter 2016
+client: Arise
+category: Mobile Development
+description: Arise is an alarm clock app that walks the user through yoga routines, fueling the body with positive energy to face the day ahead.
+
+---
