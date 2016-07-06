@@ -1,0 +1,15 @@
+---
+title: Fantelope
+subtitle: Fantelope Fan Engagement
+layout: default
+modal-id: 6
+date: 2016-07-02
+img: fantelope-logo.png
+thumbnail: fantelope-thumbnail.png
+alt: fantelope
+project-date: Summer 2016
+client: Fantelope LLLC
+category: Mobile Development
+description: Fantelope is a mobile application where sports teams can engage with their fans by putting out challenges and rewards to see who it the ultimate fan.
+
+---

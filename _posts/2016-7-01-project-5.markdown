@@ -1,0 +1,15 @@
+---
+title: MyPalate
+subtitle: MyPalate Social Network
+layout: default
+modal-id: 5
+date: 2016-07-01
+img: mypalate-logo.png
+thumbnail: mypalate-thumbnail.png
+alt: mypalate
+project-date: Summer 2016
+client: American Food Design
+category: Mobile Development
+description: MyPalate is a social network where chefs and food enthusiasts can share photos of dishes and recipes they create.
+
+---
