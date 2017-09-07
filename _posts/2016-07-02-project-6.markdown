@@ -1,6 +1,6 @@
 ---
 title: Fantelope
-subtitle: Fantelope Fan Engagement
+subtitle: Fan Engagement
 layout: default
 modal-id: 6
 date: 2016-07-02

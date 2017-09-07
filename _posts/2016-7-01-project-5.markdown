@@ -1,6 +1,6 @@
 ---
 title: MyPalate
-subtitle: MyPalate Social Network
+subtitle: Food Social Network
 layout: default
 modal-id: 5
 date: 2016-07-01
