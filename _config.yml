@@ -71,6 +71,20 @@ people:
       -
         title: facebook
         url: ~
+  -
+    name: "Gustavo Fulton"
+    pic: gus
+    position: "Software Developer"
+    social:
+      -
+        title: twitter
+        url: ~
+      -
+        title: linkedin
+        url: "https://www.linkedin.com/in/gustavo-fulton"
+      -
+        title: facebook
+        url: "https://www.facebook.com/gustavo.fulton"
 permalink: pretty
 social:
   -
