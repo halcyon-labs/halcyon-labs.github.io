@@ -1,15 +1,15 @@
 ---
-title: VidPicks
-subtitle: Curated Video Content
+title: Spotlight
+subtitle: Talent finding mobile application
 layout: default
 modal-id: 2
-date: 2014-05-11
-img: vidpicks.png
-thumbnail: vidpicks-thumbnail.png
-alt: Vidpicks Logo
-project-date: May 2015
-client: Internal
-category: Web Development
-description: VidPicks is a real-time video review platform. Hand-selected reviewers post videos from Youtube and Vimeo and share their reviews with the world. The concept is to create a place where quality, curated content is only clicks away, improving the online video experience.
+date: 2016-06-01
+img: spotlight.png
+thumbnail: spotlight-thumbnail.png
+alt: Spotlight Logo
+project-date: Summer 2016
+client: Spotlight
+category: Mobile Development
+description: Spotlight is a mobile application where event planners can find entertainers for events. Spotlight uses a Tinder-like interface to match entertainers with venues who are interested in hiring them.
 
 ---
